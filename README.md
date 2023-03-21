@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/dlcastan/dlcastan/raw/master/TDiego_Lopez_Castan.png">
+<img width="100%" src="https://github.com/dlcastan/dlcastan/raw/master/Diego_Lopez_Castan.png">
 
 # ¿Quien Soy?
 
