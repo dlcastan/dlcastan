@@ -2,13 +2,15 @@
 
 # ¿Quien Soy?
 
-Como Ingeniero de Sistemas especializado en Experiencia de Usuario (UX) e Inteligencia Artificial, cuento con una trayectoria de más de dos décadas en el ámbito tecnológico. Durante la última década, mi enfoque ha sido la investigación, experimentación y difusión de la UX como una disciplina esencial, colaborando con equipos de TI en sectores variados como Seguros, Tecnología, E-commerce y Telecomunicaciones. Mi expertise abarca User Research, Prototyping, Usability Tests e Information Architecture, entre otras áreas clave.
+Ingeniero de Sistemas | Data Engineer | Data Scientist | Inteligencia Artificial | Data-Driven Products
 
-En la actualidad lidero la comunidad de Buenos Aires para la Interaction Design Foundation (IDF) y soy miembro activo de la Interaction Design Association (IXDA) en Buenos Aires.
+Profesional tecnológico con más de 20 años de experiencia, especializado en Data Engineering, Data Science, Inteligencia Artificial y UX, trabajando en la creación de productos digitales basados en datos e IA. Experiencia colaborando con equipos de Data, Producto, Ingeniería y Negocio en industrias como Seguros, Tecnología, E-commerce y Telecomunicaciones.
 
-He tenido el privilegio de compartir mis conocimientos a través de más de 25 charlas en universidades, eventos y empresas, abordando la intersección de la UX e IA. Mi pasión por la Data e IA me ha llevado a especializarme y compartir mi experiencia en diversos foros internacionales, incluyendo el destacado evento ILA 23 en La Plata.
+Fuerte background en ingeniería de datos y analítica avanzada, incluyendo diseño de pipelines de datos (ETL/ELT), modelado de datos, arquitectura de datos, procesamiento de datos a gran escala, Machine Learning y puesta en producción de modelos (MLOps). Experiencia aplicando IA y ML para resolver problemas reales de negocio, optimizar procesos y escalar productos.
 
-Con un compromiso constante por la innovación y la educación en UX e IA, busco continuamente contribuir al avance de estas disciplinas y a la formación de futuras generaciones de profesionales en el campo tecnológico.
+Enfoque en la creación de productos con Inteligencia Artificial, integrando data platforms, modelos predictivos, automatización, analítica y toma de decisiones basada en datos, siempre alineado a objetivos de negocio y experiencia de usuario.
+
+Speaker en más de 25 charlas en universidades, eventos y empresas sobre Data, Inteligencia Artificial, Machine Learning y desarrollo de productos data-driven.
 
 # Habilidades Técnicas
 
