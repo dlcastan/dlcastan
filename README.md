@@ -78,6 +78,18 @@ Gobierno de datos y seguridad en la nube
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dlcastan&theme=dark&hide_border=true" />
 </p>
 
+
+# Unite a mi comunidad de Inteligencia Artifical
+
+
+<a href="https://nas.com/es-mx/inteligencia-artificial/"><img width="70%" src="https://github.com/dlcastan/dlcastan/blob/main/comunidad_Diego_Lopez_Castan.webp"></a>
+
+Esta comunidad se dedica a explorar y compartir conocimientos sobre la creación de proyectos innovadores utilizando inteligencia artificial. Nos enfocamos en cómo la IA puede transformar y mejorar productos y servicios, brindando herramientas y estrategias prácticas para llevar tus ideas al siguiente nivel. Únete para aprender, colaborar y estar a la vanguardia de la tecnología en el desarrollo de soluciones impactantes.
+
+[Únete a la comunidad de IA en NAS](https://nas.com/es-mx/inteligencia-artificial/)
+
+
+
 # Proyectos Destacados
 
 ### 🤖 [Support Chatbot RAG](https://github.com/dlcastan/Support_chatbot_RAG)
@@ -93,14 +105,7 @@ Análisis de negocios digitales con LangChain y arquitectura multi-agente.
 Sistema RAG con orquestación automática de agentes.
 
 
-# Unite a mi comunidad de Inteligencia Artifical
 
-
-<a href="https://nas.com/es-mx/inteligencia-artificial/"><img width="70%" src="https://github.com/dlcastan/dlcastan/blob/main/comunidad_Diego_Lopez_Castan.webp"></a>
-
-Esta comunidad se dedica a explorar y compartir conocimientos sobre la creación de proyectos innovadores utilizando inteligencia artificial. Nos enfocamos en cómo la IA puede transformar y mejorar productos y servicios, brindando herramientas y estrategias prácticas para llevar tus ideas al siguiente nivel. Únete para aprender, colaborar y estar a la vanguardia de la tecnología en el desarrollo de soluciones impactantes.
-
-[Únete a la comunidad de IA en NAS](https://nas.com/es-mx/inteligencia-artificial/)
 
 # Contactame
 
