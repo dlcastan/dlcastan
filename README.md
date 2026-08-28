@@ -50,6 +50,11 @@ AWS (EC2, S3, RDS, IAM) · Google BigQuery
 Docker · CI/CD · Git/GitHub
 Gobierno de datos y seguridad en la nube
 
+# Unite a mi comunidad de Inteligencia Artifical
+
+<img width="100%" src="https://github.com/dlcastan/dlcastan/blob/main/comunidad_Diego_Lopez_Castan.webp">
+
+Esta comunidad se dedica a explorar y compartir conocimientos sobre la creación de proyectos innovadores utilizando inteligencia artificial. Nos enfocamos en cómo la IA puede transformar y mejorar productos y servicios, brindando herramientas y estrategias prácticas para llevar tus ideas al siguiente nivel. Únete para aprender, colaborar y estar a la vanguardia de la tecnología en el desarrollo de soluciones impactantes.
 
 # Contactame
 
