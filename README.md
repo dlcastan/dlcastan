@@ -50,6 +50,48 @@ AWS (EC2, S3, RDS, IAM) · Google BigQuery
 Docker · CI/CD · Git/GitHub
 Gobierno de datos y seguridad en la nube
 
+# Stack Tecnológico
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+# GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dlcastan&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcastan&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dlcastan&theme=dark&hide_border=true" />
+</p>
+
+# Proyectos Destacados
+
+### 🤖 [Support Chatbot RAG](https://github.com/dlcastan/Support_chatbot_RAG)
+Asistente de soporte con arquitectura RAG (Retrieval-Augmented Generation).
+
+### 🧠 [Business Agent con LangGraph](https://github.com/dlcastan/Business-Agent-con-LangGraph)
+Pipeline de 3 agentes de IA para análisis empresarial automatizado.
+
+### 📊 [Multi-Agente Analizador](https://github.com/dlcastan/Multi-Agente-Analizador)
+Análisis de negocios digitales con LangChain y arquitectura multi-agente.
+
+### 🔄 [Multi Agent Orchestration](https://github.com/dlcastan/multi_agent_orchestration)
+Sistema RAG con orquestación automática de agentes.
+
 
 # Unite a mi comunidad de Inteligencia Artifical
 
