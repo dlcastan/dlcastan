@@ -1,6 +1,8 @@
 <img width="100%" src="https://github.com/dlcastan/dlcastan/blob/main/Diego_Lopez_Castan.png">
 
 [![YouTube](https://img.shields.io/badge/YouTube-@DiegoLopezCastan-FF0000?style=social&logo=youtube)](https://youtube.com/@DiegoLopezCastan?sub_confirmation=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Lopez_Castan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diegolopezcastan/)
+[![NAS Community](https://img.shields.io/badge/NAS-Inteligencia_Artificial-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://nas.com/es-mx/inteligencia-artificial)
 
 # ¿Quien Soy?
 
