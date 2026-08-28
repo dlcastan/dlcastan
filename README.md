@@ -70,12 +70,12 @@ Gobierno de datos y seguridad en la nube
 # GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dlcastan&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcastan&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dlcastan&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcastan&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dlcastan&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=dlcastan&theme=dark&hide_border=true" />
 </p>
 
 
