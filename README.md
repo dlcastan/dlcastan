@@ -67,16 +67,6 @@ Gobierno de datos y seguridad en la nube
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dlcastan&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcastan&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=dlcastan&theme=dark&hide_border=true" />
-</p>
 
 
 # Unite a mi comunidad de Inteligencia Artifical
@@ -88,6 +78,11 @@ Esta comunidad se dedica a explorar y compartir conocimientos sobre la creación
 
 [Únete a la comunidad de IA en NAS](https://nas.com/es-mx/inteligencia-artificial/)
 
+
+# 🎥 Últimos videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 # Proyectos Destacados
