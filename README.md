@@ -1,7 +1,6 @@
 <img width="100%" src="https://github.com/dlcastan/dlcastan/blob/main/Diego_Lopez_Castan.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwyWhyJNQlvo2nQ2AzHDAIQ?style=social)](https://youtube.com/@DiegoLopezCastan?sub_confirmation=1)
-
+[![YouTube](https://img.shields.io/badge/YouTube-@DiegoLopezCastan-FF0000?style=social&logo=youtube)](https://youtube.com/@DiegoLopezCastan?sub_confirmation=1)
 
 # ¿Quien Soy?
 
