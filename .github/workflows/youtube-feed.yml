@@ -1,8 +1,11 @@
 name: Latest YouTube videos
 on:
   schedule:
-    - cron: '0 12 * * *'   # todos los días a las 12:00 UTC
+    - cron: '0 12 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
