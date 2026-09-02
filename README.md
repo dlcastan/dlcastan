@@ -82,11 +82,11 @@ Esta comunidad se dedica a explorar y compartir conocimientos sobre la creación
 # 🎥 Últimos videos
 
 <!-- YOUTUBE:START -->
+- [Comparando LLMs: latencia, costo y calidad](https://www.youtube.com/watch?v=pDIlIfyGem8)
 - [Skills en Claude: cómo crear habilidades personalizadas para tu LLM](https://www.youtube.com/watch?v=q8YGnaQIwE8)
 - [Crea tu primer Agente con IA en Python](https://www.youtube.com/watch?v=WxnpZrz_Bn0)
 - [Cómo crear un Chatbot con Groq y Google Colab | Tutorial paso a paso](https://www.youtube.com/watch?v=8IS6PkdtdnM)
 - [Crear banner en tu sitio con Google Optimize](https://www.youtube.com/watch?v=bWleVLlyciU)
-- [Personalizar contenido de tu web con Google Optimize](https://www.youtube.com/watch?v=6oX-810KjRU)
 <!-- YOUTUBE:END -->
 
 
